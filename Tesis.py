@@ -1,1 +1,1 @@
-None
+G = "Proyecto de Tesis"
